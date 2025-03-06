@@ -60,9 +60,9 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(23, 21);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(452, 29);
+            this.label1.Size = new System.Drawing.Size(362, 29);
             this.label1.TabIndex = 0;
-            this.label1.Text = "CONTROL DE PROMEDIOS DE NOTAS";
+            this.label1.Text = "CONTROL DE PROMEDIOS DE";
             // 
             // label2
             // 

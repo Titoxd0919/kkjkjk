@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practica 1\\Practica 1 POO\\pjPromedioNotasCS19795391\\",
+  "WorkspaceRootPath": "C:\\Users\\angel\\Desktop\\Practica 1 POO\\pjPromedioNotasCS19795391\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39C517DF-C73B-4129-94CF-096DA473F235}|pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391.csproj|c:\\users\\angel\\desktop\\practicas arcides\\practica 1\\practica 1 poo\\pjpromedionotascs19795391\\pjpromedionotascs19795391\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39C517DF-C73B-4129-94CF-096DA473F235}|pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391.csproj|c:\\users\\angel\\desktop\\practica 1 poo\\pjpromedionotascs19795391\\pjpromedionotascs19795391\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39C517DF-C73B-4129-94CF-096DA473F235}|pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391.csproj|solutionrelative:pjpromedionotascs19795391\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39C517DF-C73B-4129-94CF-096DA473F235}|pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391.csproj|C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practica 1\\Practica 1 POO\\pjPromedioNotasCS19795391\\pjpromedionotascs19795391\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39C517DF-C73B-4129-94CF-096DA473F235}|pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391.csproj|C:\\Users\\angel\\Desktop\\Practica 1 POO\\pjPromedioNotasCS19795391\\pjpromedionotascs19795391\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39C517DF-C73B-4129-94CF-096DA473F235}|pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391.csproj|solutionrelative:pjpromedionotascs19795391\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practica 1\\Practica 1 POO\\pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Practica 1 POO\\pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391\\Form1.cs",
               "RelativeDocumentMoniker": "pjPromedioNotasCS19795391\\Form1.cs",
-              "ToolTip": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practica 1\\Practica 1 POO\\pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391\\Form1.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\Practica 1 POO\\pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391\\Form1.cs",
               "RelativeToolTip": "pjPromedioNotasCS19795391\\Form1.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAASwBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T20:21:50.678Z",
               "EditorCaption": ""
@@ -37,13 +37,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practica 1\\Practica 1 POO\\pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Practica 1 POO\\pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391\\Form1.cs",
               "RelativeDocumentMoniker": "pjPromedioNotasCS19795391\\Form1.cs",
               "ToolTip": "C:\\Users\\angel\\Desktop\\Practicas Arcides\\Practica 1\\Practica 1 POO\\pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "pjPromedioNotasCS19795391\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Practicas Arcides\\Practica 1\\Practica 1 POO\\pjPromedioNotasCS19795391\\pjPromedioNotasCS19795391\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T20:15:12.011Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-23T20:15:12.011Z"
             }
           ]
         }
